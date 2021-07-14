@@ -1,3 +1,3 @@
 # Hello-World
 Just another repository
-Robot here. Trying to catch up with every tech trends.
+Robo here. Trying to catch up with every tech trends.
